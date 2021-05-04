@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hola! 👋
+
+Soy Luis, un amante del **marketing**, del **deporte** y de la **tecnología**.
+
+En mi Github encontrarás distintos proyectos con los que he ido aprendiendo, ya que aún soy **desarrollador junior**, 
+con un único objetivo: 
+**realizar páginas wwb bonitas**.
+
+También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/luisherediaj/)
 
 <!--
 **Luisherediaj/Luisherediaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,9 @@ En mi Github encontrarás distintos proyectos con los que he ido aprendiendo, ya
 con un único objetivo: 
 **realizar páginas wwb bonitas**.
 
-También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/luisherediaj/)
+También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/luisherediaj/).
+
+Si te interesa mi lado de marketing digital, aquí tienes un pequeño [portfolio](https://bit.ly/37LVDSV).
 
 <!--
 **Luisherediaj/Luisherediaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
